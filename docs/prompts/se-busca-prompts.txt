@@ -1,0 +1,224 @@
+PROMPTS DE CADA ESCENA DE «SE BUSCA» (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = tu ficha con el vestuario (Claude la crea con GPT Image 2.6) · Image 2 = una foto de tu cara ·
+Image 3 = la ficha del aliado de esa escena (el genio en la 5 y la 7; la cómplice en la 10 y la 11).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio, una generación por escena. Cambia [YOUR LOOK] por cómo eres tú
+y [YOUR NAME] por tu nombre. Cada escena = BLOQUE BASE + su texto.
+Duraciones: 5, 5, 5, 6, 4, 4, 4, 4, 4, 8 y 8 segundos. Costo de todo el video: 3,21 dólares en créditos.
+Las escenas están escritas como comedia de película familiar a propósito: así el filtro de Higgsfield no las rechaza.
+
+==============================================================================
+TU FICHA (GPT Image 2.6, 16:9, con 3 fotos tuyas)
+==============================================================================
+
+SUBJECT: A premium three-panel character reference sheet of one man in an original Arabian-tale prince costume, 16:9 overall, shot like an official costume-department reference photo for a major Hollywood film. Real high-resolution photography of a real person in a real, practical, hand-made costume: completely photorealistic, not illustration, not CGI.
+
+HIS FACE: EXACTLY the man of images 1, 2 and 3 (the same person): his exact face, identity, age and features; [YOUR LOOK: glasses or not, hair, beard]; a calm, confident, slightly mischievous expression. Take only his face, hair and identity from the photos, not his clothes or background.
+
+SKIN REALISM: real, untouched adult skin with visible pores, natural tone, fine lines; no makeup, no filters, no beauty smoothing; never plastic or airbrushed.
+
+HIS BUILD: about 1.90 m tall, fit but LEAN and slim, NOT muscular, NOT bulky, normal arms; head and face naturally sized. A relaxed, confident stance.
+
+THE COSTUME (an original design, identical in every panel), real fabrics, lightly worn:
+- A long-sleeved tunic of deep TURQUOISE silk, loose sleeves gathered at the wrist, a small stand-up collar open in a narrow V at the neck, fine GOLD embroidery along the collar and the front edge.
+- Over it, a short open sleeveless vest of darker teal brocade with gold trim.
+- A wide GOLD silk sash tied at the waist.
+- Loose, wide turquoise trousers gathered at the ankles.
+- Wide plain gold cuffs on both wrists, over the sleeves; a simple gold chain at the neck.
+- Soft tan leather slippers with slightly pointed toes.
+- NO turban, NO hat, NO crown, NO weapon, NO jewels on the head: his short dark hair is uncovered. No symbols, letters or logos anywhere.
+
+KEY RULES: one man, the same face, build and costume in all three panels. Mouth closed, a calm half-smile. Tack-sharp: eyes, silk weave and gold embroidery crisply resolved. True, natural skin tone.
+
+LAYOUT (exactly this structure): three EQUAL-WIDTH vertical panels side by side, separated by very thin, faint light-grey dividing lines, the same seamless neutral mid-grey background through all three.
+- PANEL 1 (left): full body, straight-on FRONT view, standing centred and upright, feet about shoulder-width apart, arms relaxed at his sides. The top of his head about 6% below the top edge; his feet about 4% above the bottom edge, with a soft contact shadow. Eyes to the camera.
+- PANEL 2 (centre): full body, straight-on BACK view: the same height, position and scale, as if he simply turned around.
+- PANEL 3 (right): a tight CHEST-UP portrait, straight on: his head and shoulders filling the panel, cut at mid-chest, the collar and the gold chain visible. The sharpest panel.
+
+COLOUR AND LIGHT: daylight-balanced studio light, neutral white balance, true-to-life colour; a large, soft key light from the front and slightly above; one seamless NEUTRAL mid-grey studio paper sweep.
+
+BANS: No turban, no hat, no crown, no weapon. No resemblance to any existing film, TV, comic, cartoon or game character or costume. No bare chest, no bare arms. No glowing effects, no CGI. Panel 2 is a BACK view, not a profile. No cropped head or feet in Panels 1 and 2. No text, no letters, no logos.
+
+==============================================================================
+FICHA DEL GENIO (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body character reference photo, vertical 9:16, photorealistic, like a costume and creature-design reference for a major live-action fantasy film: an original GENIE from an Arabian tale. A towering, broad, powerful man-shaped spirit with smooth VIOLET-PURPLE skin, a completely bald head, a long WHITE braided beard, thick white eyebrows, warm amber eyes and a wide, friendly grin. Bare-chested, with wide gold cuffs on both wrists and both upper arms, a heavy gold necklace, and a crimson silk sash at the waist; below the sash his body tapers into a swirling trail of violet smoke instead of legs, hovering just above the floor. Real skin texture, real fabric, real metal. Plain neutral mid-grey seamless studio background, soft even light, sharp focus. An invented character: no resemblance to any existing film, TV, cartoon or game genie, and not the likeness of any real actor. No blue skin, no topknot, no goatee, no earrings. No text, no logos.
+
+==============================================================================
+FICHA DE LA CÓMPLICE (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body character reference photo, vertical 9:16, photorealistic, like a costume reference for a major live-action adventure film: an original character, a confident woman in her early thirties with long, dark, curly hair and a warm, daring smile, standing relaxed, facing the camera. She wears an original Arabian-tale outfit: a long-sleeved fitted CRIMSON top with a high neck and fine gold embroidery, wide crimson trousers gathered at the ankles, a gold silk sash at the waist, thin gold bracelets and soft tan slippers; a light crimson scarf rests on her shoulders. Modest, elegant, practical for adventure. Plain neutral mid-grey seamless studio background, soft even light, sharp focus, real skin texture. An invented person, not a celebrity; no resemblance to any existing film, TV, cartoon or game character. No turquoise, no tiara, no bare midriff. No text, no logos.
+
+==============================================================================
+BLOQUE BASE (va arriba de CADA escena)
+==============================================================================
+
+A shot from a fast, funny, big-budget live-action fantasy adventure film: an Arabian-tale kingdom mixed with the modern world. A charming outlaw prince, the most wanted man in the kingdom, pulls off outrageous mischief with his magical allies and enjoys every second of it. Photorealistic cinematic live-action footage of real people in real places, vertical 9:16. Playful and mischievous, never dark: nobody is ever hurt.
+
+Every person moves like a real human being filmed in real life, at natural real-life speed: real footsteps and weight shifts, relaxed shoulders, hands and fingers that work, breathing, blinking, clothes and hair that move. Nobody slides, glides or moves like a puppet or a video-game character. Nothing is sped up.
+
+=== THE HERO: IDENTITY AND COSTUME LOCK (the most important rule) ===
+THE HERO is EXACTLY the man in IMAGE 1 (his costume reference sheet), with the face of IMAGE 2.
+- FACE (exactly image 2): his exact face; [YOUR LOOK: glasses or not, hair, beard]; real skin with visible pores. His head is always uncovered: no turban, no hat, no crown.
+- COSTUME (exactly image 1, never changed): a long-sleeved tunic of deep TURQUOISE silk with fine gold embroidery at the collar; a short open sleeveless vest of darker teal brocade with gold trim; a wide GOLD silk sash at the waist; loose turquoise trousers gathered at the ankles; wide plain gold cuffs on both wrists; a simple gold chain; soft tan leather slippers.
+- BODY: tall (about 1.90 m), fit but lean and slim, natural proportions.
+
+=== HIS PERFORMANCE ===
+Calm, relaxed and amused, like a charismatic movie star playing a lovable rogue: he is never in a hurry and never afraid. Small, real expressions: a raised eyebrow, a half smile, a real laugh. He always does the action himself.
+
+=== THE COBRA (whenever a snake appears) ===
+A real king cobra with dark copper-brown scales, a pale golden belly and a wide spread hood. It is his pet and ally: it never bites anyone.
+
+=== PHYSICS AND REALISM ===
+Real weight, mass and momentum: bodies and animals jump and fall on believable arcs and land heavily; nothing floats, glides or hangs in the air unless it is magic (the flying carpet, the genie). Destruction always has a visible cause and looks like real practical effects: glass cracks and falls, plaster and bricks crumble with dust. Real, detailed locations; real people with ordinary faces who react naturally. Five fingers on every hand; faces never warp or morph; objects never change size or melt; no text, logos or readable signs anywhere unless the scene asks for one.
+
+=== THE CAMERA ===
+A professional cinema camera, operated by hand: gentle natural micro-shakes, a jolt on each impact, snap zooms and whip pans only where the scene asks for them; shallow depth of field, natural motion blur, rich warm film colour. Never slow motion, never sped up. No cuts or angles other than the ones the scene describes.
+
+=== SOUND AND BANS ===
+Real location sound only: the ambience of the place, footsteps, fabric, impacts, animal sounds, short natural gasps, shouts and laughter. NO MUSIC. No dialogue, no narration: nobody speaks any words. No blood, wounds or injuries: everyone ends up startled but fine. No CGI look, no video-game look, no cartoon look, no plastic skin, no beauty smoothing.
+
+==============================================================================
+ESCENA 1 · LA JOYERÍA
+==============================================================================
+
+=== THE SCENE: THE JEWELLER AND THE PET COBRA (0.0s–5.0s) ===
+A comedy heist scene, like a family adventure film: the cobra is his tame pet and only wants to say hello. An elegant old jewellery shop: dark carved wood, warm brass lamps, a long glass display counter full of velvet trays with gold necklaces, rings and coloured gems. THE JEWELLER: a real man of about sixty, grey hair, a neat dark suit. FOUR SHOTS with very fast hard cuts, exactly at the times given below. SHOT A is extremely short (only half a second, then CUT); SHOT D (the jewels going into the jar) is the longest: it lasts two full seconds.
+- 0.0s–0.53s, SHOT A, side view along the counter: the jeweller (left, behind the counter) and THE HERO (right) face each other; with a polite smile THE HERO slides an old clay jar across the glass toward him. At 0.4s the head of a cobra rises out of the mouth of the jar.
+- 0.53s–2.5s, SHOT B, close on the jeweller: the cobra (about 1.5 m long) has climbed onto his shoulders like a scarf and looks him in the eye, nose to nose, flicking its tongue; he goes pale, his eyes roll up and he faints slowly backward, sinking out of sight behind the counter (1.6s–2.4s), in comic slapstick style. The clay jar stays standing on the glass.
+- 2.5s–3.05s, SHOT C: THE HERO SMASHES THE GLASS TOP WITH HIS FIST, NOT THE JAR. The clay jar stands on the glass at arm's length from him. He raises his right fist high above his head (2.6s–2.7s) and hammers it straight down onto an EMPTY part of the glass top, half a metre to the side of the jar, nearer to the camera (impact at 2.75s): we clearly see his fist hit the bare glass, and the glass top EXPLODES into hundreds of small sparkling pieces that spray up around his hand and rain down over the jewels. His fist never touches the clay jar. THE CLAY JAR IS NEVER HIT AND NEVER BREAKS: it stays whole, without a crack; when the glass under it gives way it simply drops straight down a few centimetres onto the velvet tray below and stays standing upright, intact, clearly visible until the end of the shot.
+- 3.05s–5.0s, SHOT D, three tight close-ups with a cut at 3.7s and another at 4.2s: the hands of THE HERO (a man, turquoise silk sleeves with wide gold cuffs) scoop necklaces, rings and gems out of the velvet trays and drop them into the same intact clay jar by the handful, quickly and neatly.
+SOUND: a quiet shop, the soft hiss of the cobra, a comic sigh as the jeweller faints, a loud crash of shattering glass, the clink of gold dropping into the clay jar. No dialogue, no music.
+
+==============================================================================
+ESCENA 2 · LA AZOTEA Y LA ALFOMBRA VOLADORA
+==============================================================================
+
+=== THE SCENE: THE ROOFTOP AND THE FLYING CARPET (0.0s–5.0s) ===
+A joyful magic-carpet stunt, like a family adventure film: he knows his flying carpet is waiting for him, so he is never in danger and he grins the whole time. The flat rooftop of a glass skyscraper at golden hour, high above a huge modern city. ONE continuous shot, no cuts.
+- 0.0s–0.6s: seen from above and outside the building: THE HERO runs across the rooftop toward the edge, a real athletic run, his turquoise silk flapping, laughing; three guards in black uniforms and helmets run after him a few metres behind.
+- 0.6s: he hops off the edge like an acrobat, arms wide, looking down for his carpet.
+- 0.6s–2.1s: he glides down through the air in a skydiver pose, relaxed and smiling, the wind in his clothes; the camera goes down with him along the glass wall of the building.
+- 1.6s–2.55s: his FLYING CARPET (a thick deep-red Persian carpet with gold patterns and gold tassels) swoops up from below and scoops him up softly; it dips and sags under his weight like a trampoline.
+- 2.55s–3.7s: the carpet rises with him kneeling on it, rippling in the wind, back up to the level of the rooftop; the camera ends beside the guard who stands at the edge, whose outstretched gloved hand cannot reach him.
+- 3.7s–4.0s: the carpet drifts closer, two metres from the guard. 4.0s–4.6s: the camera pushes in on the face of THE HERO: a playful two-finger salute from his temple and a wink.
+- 4.65s–5.0s: the carpet zooms away into the golden sky and he is gone.
+SOUND: running boots on the roof, wind, the heavy flap of the carpet, his laugh, a whoosh as it leaves. No dialogue, no music.
+
+==============================================================================
+ESCENA 3 · EL TIGRE
+==============================================================================
+
+=== THE SCENE: THE MERCHANT MEETS THE PET TIGER (0.0s–5.0s) ===
+A light, funny scene from a family film: THE HERO shows off his tame pet tiger, which behaves like a big friendly house cat. A grand palace hall in daylight: a low wide divan sofa with silk cushions, embroidered drapes, brass lanterns, a red carpet. A RICH MERCHANT: a cheerful, well-fed man of about sixty with grey hair and a grey beard, in white and gold robes, sitting at the left end of the divan. Two FRIENDS of his, men in long cream robes and cream head cloths, sit on floor cushions in the foreground with their backs to the camera. ONE continuous shot with quick pans.
+- 0.0s–1.9s: wide: the merchant sits on the divan; THE HERO stands at the back on the right, relaxed, and waves one hand toward him as if saying, look who came to visit.
+- 1.9s–2.7s: a real, full-grown, well-groomed BENGAL TIGER trots in from behind THE HERO and hops in a big playful cat jump onto the red carpet in front of the divan; the camera pans with it; the two friends shuffle aside to make room.
+- 2.7s–4.0s: the tiger sits down on the carpet like a huge house cat, a good metre from the merchant, looks at him and gives one enormous lazy yawn; the merchant sinks back into his cushions with huge round eyes and a nervous grin, hugging a cushion: a comedy double take.
+- 4.1s–5.0s: quick pan to THE HERO: he is eating grapes from a bunch in his hand, laughing warmly.
+SOUND: a quiet hall, soft heavy paws landing on the carpet, a deep rumbling tiger yawn, a nervous little laugh from the merchant, the laugh of THE HERO. No dialogue, no music.
+
+==============================================================================
+ESCENA 4 · LA SIRENA Y EL COLLAR DE PERLAS
+==============================================================================
+
+=== THE SCENE: THE MERMAID AND THE PEARL NECKLACE (0.0s–6.0s) ===
+A comedy scene, like a family adventure film. A wide empty beach at sunset, warm orange light, small calm waves; the camera is still, very low, at water level, looking out to sea. ONE continuous shot, no cuts. THE MERMAID: a storybook mermaid, a woman of about thirty with long wavy jet-black hair, fully and modestly dressed in a long-sleeved, high-necked tunic of dark green woven sea-silk with small white shells, which covers her shoulders, arms, chest and waist completely; from the waist down, a long fish tail of copper-orange and gold scales with a wide amber fin.
+- 0.0s–2.2s: THE HERO stands ankle-deep in the shallow water on the right, in three-quarter profile, and holds out one arm over the water with a big, heavy necklace of large shining white pearls dangling from his fingers, sparkling in the sunset light; he sways it gently like bait and smiles. Far out, THE MERMAID comes swimming in from the open sea, straight toward the necklace, fast and smooth, her head and shoulders above the water, her copper tail beating behind her and splashing, her eyes fixed on the pearls.
+- 2.2s–2.9s: she reaches the shallows at his feet, props herself up on her elbows and stretches her face up toward the dangling pearls, fascinated, reaching one hand for them.
+- 2.9s–3.4s: with a cheeky grin he lifts the necklace up out of her reach and takes one step back.
+- 3.3s–4.0s: two FISHERMEN in long cream robes with the hoods up jog in from the left.
+- 4.0s–4.9s: they crouch on both sides of her and carefully lift her between them, like two fishermen proud of the catch of their lives; she rolls her eyes, surprised and annoyed, her wet tail hangs and flaps.
+- 4.9s–6.0s: they carry her away to the left at a normal walking pace; THE HERO turns to the camera with a satisfied smile, the pearl necklace swinging from his raised hand.
+SOUND: gentle waves, fast splashing as she swims in, the soft click of pearls, wet footsteps on the sand, the slap of her tail. No dialogue, no music.
+
+==============================================================================
+ESCENA 5 · EL GENIO COCINERO
+==============================================================================
+
+=== THE SCENE: THE GENIE COOKS (0.0s–4.0s) ===
+A funny cooking scene. A grand palace kitchen: copper pans, hanging herbs, a thick wooden counter. THE HERO is not in this scene. THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a body that ends in violet smoke), here wearing a tall white chef hat and a white apron over his chest; he is bigger than a man.
+THE FISH: lying across the whole counter, the long, thick body of an enormous fish covered in copper-orange and gold scales, as thick as a tree trunk. It is so long that it goes out of the frame on BOTH sides: on the left it gets thicker and thicker and continues beyond the left edge of the frame; toward the right it slowly gets thinner and continues beyond the right edge. We only see this middle section of the body: NO fins, NO tail fin and NO head anywhere in the frame. Clean and fresh, like a giant salmon at a fish market.
+One still shot from the front, low, at the height of the counter, with a slow gentle push-in toward him:
+- 0.0s–0.45s: grinning, THE GENIE raises a big kitchen cleaver above his head with both hands.
+- 0.6s: he brings it down hard in the middle of the fish body and chops it clean in two with one blow: a heavy THUNK on the wood. The two halves slide a little apart, and the two round cut faces show clean pale-pink fish flesh, like a thick salmon steak.
+- 1.1s–4.0s: he lifts the cleaver again and keeps chopping down into the same cut in a steady rhythm (about one blow every second), cheerful and busy like a happy cook, grinning at the camera.
+SOUND: a crackling stove, one heavy thunk of the cleaver on the wooden counter, his pleased low chuckle. No dialogue, no music.
+
+==============================================================================
+ESCENA 6 · EL BOTÍN
+==============================================================================
+
+=== THE SCENE: THE LOOT (0.0s–4.0s) ===
+A hall of old stone at night with a big fireplace burning behind; in the middle, a MOUNTAIN of bundled banknotes taller than a man (plain green-grey notes, no readable text or faces). THE HERO lounges on top of it like on a throne, one knee up. ONE continuous shot.
+- 0.0s–0.4s: wide: the mountain of money, the fire, THE HERO on top holding a golden goblet.
+- 0.4s–1.2s: he raises the goblet in a toast to the camera and takes a long drink.
+- 0.9s–1.8s: the camera moves in from the wide shot to a medium shot of him.
+- 1.5s and 2.2s: laughing out loud, he grabs handfuls of banknotes and throws them up into the air; they flutter down around him with real gravity.
+- 2.3s–4.0s: he leans back, still laughing, notes drifting down.
+SOUND: the crackling fire, the rustle and flutter of paper money, his laugh. No dialogue, no music.
+
+==============================================================================
+ESCENA 7 · EL GRAFITI
+==============================================================================
+
+=== THE SCENE: THE ALLEY (0.0s–4.0s) ===
+A city alley in daylight: a tall old red-brick wall, an iron fire escape high up on the right, wet asphalt. THE GENIE is exactly the genie of IMAGE 3 (violet-purple skin, bald, a long white braided beard, gold cuffs, a body that ends in violet smoke), here GIANT, five metres tall: he hovers on the right, seen almost from behind, and holds THE HERO standing on his huge open palm three metres above the ground, next to the wall. THE HERO faces the wall and spray-paints with a spray can in his raised hand. On the wall, the mural he is finishing: a huge graffiti of a rearing turquoise cobra wearing a crown, with thick cream outlines, fresh wet paint. No letters, no words.
+ONE continuous shot from street level:
+- 0.0s–0.9s: wide and low: the giant genie from behind, THE HERO small on his palm, the big mural.
+- 1.0s–4.0s: the camera rises and pushes in on THE HERO as he paints: he sweeps the spray can in wide confident arcs, steps a little to one side and the other on the palm, and glances back over his shoulder with a grin; the other huge hand of the genie moves away to the right.
+SOUND: the hiss and rattle of the spray can, a distant city hum, the deep amused chuckle of the genie. No dialogue, no music.
+
+==============================================================================
+ESCENA 8 · EL ARRESTO
+==============================================================================
+
+=== THE SCENE: THE ARREST (0.0s–4.0s) ===
+A sunny palace garden: a pale stone path between trimmed green hedges and red rose bushes, tall cypresses, a white palace wall with arches at the back. ONE continuous shot, the camera still, facing him.
+- 0.0s–1.6s: THE HERO strolls calmly along the path toward the camera, a relaxed real walk, hands loose. From 0.4s four RIOT POLICE in black tactical gear and helmets come out from behind the hedges on both sides, crouched, aiming their rifles at him, and close in around him: two on the left, two on the right.
+- 1.6s–2.2s: he stops, completely relaxed, and raises both hands and laces them behind his head, chest out, smiling.
+- 2.2s–2.4s: a sudden snap zoom to a tight medium shot of him.
+- 2.4s–4.0s: he holds a wide, cheeky grin, hands behind his head; the police stay frozen around him, aiming.
+SOUND: birds, boots on gravel, the rattle of gear, short shouted barks from the police with no words, then silence. No dialogue, no music.
+
+==============================================================================
+ESCENA 9 · LA FOTO DE RESEÑA
+==============================================================================
+
+=== THE SCENE: THE MUGSHOT (0.0s–4.0s) ===
+A police booking room: a grey-green wall with black horizontal height lines behind him, cold fluorescent tube light, a concrete floor. THE HERO stands straight, facing the camera, holding with both hands at chest height a black booking placard with one white strip on which the single word [YOUR NAME] is printed in plain black capital letters (the only text in the scene; spell it out letter by letter). In the right foreground, out of focus, a police camera on a tripod. The camera is still, straight in front of him.
+- 0.0s–0.3s: wide shot of the room.
+- 0.3s–0.8s: a fast zoom in to a chest-up shot.
+- 0.8s–4.0s: he stays almost still: a slow, crooked, satisfied half smile, he lifts his chin a little and raises one eyebrow. At about 1.6s a camera flash lights him for an instant.
+SOUND: the hum of the fluorescent tube, the click and pop of a camera flash. No dialogue, no music.
+
+==============================================================================
+ESCENA 10 · LA FUGA
+==============================================================================
+
+=== THE SCENE: THE ESCAPE (0.0s–8.0s) ===
+The same police booking room: grey-green walls, height lines on the back wall behind him, cold fluorescent light, a police camera on a tripod in the right foreground. THE ACCOMPLICE is exactly the woman of IMAGE 3 (long dark curly hair, a crimson long-sleeved outfit with gold embroidery and a gold sash). THE COBRA here is GIANT: the same king cobra, but its body is as thick as a tree trunk and its head is bigger than a man. ONE continuous shot.
+- 0.0s–0.15s: wide: THE HERO stands still, facing the camera, holding his black booking placard at his chest, with a half smile.
+- 0.15s: the back wall BURSTS open behind him: the giant cobra smashes through it; chunks of wall and dust fly toward the camera.
+- 0.15s–1.6s: the cobra rears up high above him with its hood spread wide, tongue flicking; he does not even flinch.
+- 1.7s–3.4s: he calmly turns around, drops the placard to the floor, and reaches up with one hand to stroke the cobra under its chin as it lowers its huge head to him, like greeting a beloved pet; the camera pushes in a little on the two of them.
+- 3.5s–3.75s: the cobra whips its head to the LEFT and smashes through the left wall (the only fast move); the camera whips left with it.
+- 3.75s–4.8s: dust and warm golden sunlight pour in through the big broken hole; the body of the cobra lies stretched out through it.
+- 4.5s–5.2s: THE ACCOMPLICE steps into the hole from outside, backlit by the sun, smiling.
+- 5.2s–5.9s: THE HERO jogs the few steps to her. 5.9s–6.3s: they meet and clasp hands, laughing.
+- 6.3s–8.0s: side by side they walk out through the hole into the sunlight at an easy pace, stepping over the rubble.
+SOUND: the hum of the light, a huge crash of masonry, falling rubble, the deep hiss of the giant cobra, a second crash, their laughter, footsteps on rubble. No dialogue, no music.
+
+==============================================================================
+ESCENA 11 · LA CAMINATA DEL CIERRE (encima va tu voz en off)
+==============================================================================
+
+=== THE SCENE: THE GETAWAY WALK (0.0s–8.0s) ===
+Outside, right after the escape: a sunny palace courtyard of pale stone with palm trees on both sides, white arcades and a stone fountain. Far behind them, the grey prison wall with a big broken hole and rubble; the GIANT cobra (body as thick as a tree trunk) peeks out of the hole with its hood spread, swaying slowly. THE ACCOMPLICE is exactly the woman of IMAGE 3 (long dark curly hair, a crimson long-sleeved outfit with gold embroidery and a gold sash). ONE continuous shot: a medium shot from the waist up, the camera moving backward in front of them at their pace, steady and smooth.
+- 0.0s–8.0s: THE HERO (on the left of the frame) and THE ACCOMPLICE (on the right) walk side by side straight toward the camera at a calm, unhurried pace, a real natural walk with relaxed arms. His face is sharp and well lit, in the upper middle of the frame.
+- about 3.0s: he turns his head and glances at her; she looks back at him and laughs.
+- about 4.5s: he looks back into the lens.
+- about 6.3s: a warm, confident smile straight at the lens and a wink.
+HE DOES NOT SPEAK: his lips never form words; he only smiles and laughs silently, because a voice-over will be added later. She does not speak either.
+SOUND: a light warm breeze, palm leaves, their soft footsteps on stone, a distant deep hiss from the cobra. No dialogue, no music.
